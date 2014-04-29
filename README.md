@@ -1,4 +1,13 @@
 C++
 ===
+Data Structures, Sorting Algorithms, Some game programming, and others.
 
-Data Structures, Sorting Algorithms and other C++ programs.
+Projects
+========
+<ul></li>
+Simple Simulation Library - INCOMPLETE
+</li><li>
+Data Structures - INCOMPLETE
+</li><li>
+Simple Game - INCOMPLETE
+</li></ul>
